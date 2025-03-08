@@ -46,7 +46,9 @@ dependencies:
   video_editor: ^3.0.0
   fraction: ^5.0.4
   # ffmpeg_kit_flutter: ^6.0.3
-  video_trimmer: ^3.0.1
+  video_trimmer:
+    git:
+      url: https://github.com/coder-Aayush/video_trimmer.git
 
 dev_dependencies:
   flutter_test:

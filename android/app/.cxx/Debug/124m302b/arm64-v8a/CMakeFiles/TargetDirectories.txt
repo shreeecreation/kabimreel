@@ -1,0 +1,2 @@
+/Users/aayush/Desktop/kabimreel/android/app/.cxx/Debug/124m302b/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/aayush/Desktop/kabimreel/android/app/.cxx/Debug/124m302b/arm64-v8a/CMakeFiles/rebuild_cache.dir
